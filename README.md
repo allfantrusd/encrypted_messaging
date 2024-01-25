@@ -1,5 +1,6 @@
 # encrypted_messaging
 This repo contain a server which send encrypted message to clients to message encryptedly 
+To use the script globally copy Casercipher file and paste it into clients python file and edit it accordingly and use it  
 ## [[Help]]
 ## *-i* is used to add server address in server.py file
 ## *-i* is also used to add host address in clients.py file
